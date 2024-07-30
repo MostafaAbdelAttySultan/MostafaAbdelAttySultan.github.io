@@ -1,0 +1,19 @@
+site_name: My CV
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
+  - Experience: experience.md
+  - Education: education.md
+  - Skills: skills.md
+  - Projects: projects.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
