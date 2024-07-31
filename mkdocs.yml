@@ -3,11 +3,11 @@ site_name: My CV
 theme:
   name: material
   palette:
-    primary: 'indigo'
-    accent: 'pink'
+    primary: "indigo"
+    accent: "pink"
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: "Roboto"
+    code: "Roboto Mono"
   features:
     - navigation.tabs
     - navigation.instant
