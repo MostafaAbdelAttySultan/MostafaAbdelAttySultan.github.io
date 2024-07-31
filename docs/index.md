@@ -9,6 +9,7 @@ Welcome to my online CV created using Material for MkDocs.
 - Easy to navigate
 - Interactive sections
 - Visually appealing
+- fafafafafafaf
 
 ![Sample Image](https://via.placeholder.com/800x400)
 
