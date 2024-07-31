@@ -9,8 +9,9 @@ Welcome to my online CV created using Material for MkDocs.
 - Easy to navigate
 - Interactive sections
 - Visually appealing
+- fafafafafafaf
 
 ![Sample Image](https://via.placeholder.com/800x400)
 
 ## Contact Me
-Feel free to [contact me](mailto:your.email@example.com) for any inquiries.
+Feel free to [contact me](mailto:mostafaismae2002@gmail.com) for any inquiries.
