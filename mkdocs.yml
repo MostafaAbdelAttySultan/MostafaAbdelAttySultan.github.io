@@ -1,3 +1,4 @@
+---
 site_name: My CV
 theme:
   name: material
@@ -54,9 +55,6 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js
 extra_css:
-  - assets/stylesheets/custom.css
-  
+  - assets/stylesheets/custom.css  
 extra_javascript:
   - assets/javascripts/animations.js
-
-
